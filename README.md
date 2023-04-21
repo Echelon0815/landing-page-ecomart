@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+# 這是一個和ChatGPT練習用的專案
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 目的：
+* 練習 RWD
+* 複習 React、Sass
+* 學習 landing page 的設計方法
+* 觀摩其他 landing page，做一些自己的元件
 
-## Available Scripts
+## ChatGpt 的要求：
+### Create a responsive landing page for a fictional e-commerce website called "EcoMart".
 
-In the project directory, you can run:
+Goals:
 
-### `npm start`
+  * The landing page should include a hero section with a background image and a call-to-action button.
+  * There should be a section displaying featured products with their prices and ratings.
+  * Include a section displaying customer testimonials.
+  * The page should be fully responsive and optimized for different screen sizes.
+  * Use appropriate HTML tags and semantic markup.
+  * Use CSS to style the page and make it visually appealing.
+  * Use JavaScript to add any necessary interactivity, such as a responsive navigation menu.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Minimum information:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  * EcoMart is an online store that sells eco-friendly products such as clothing, household items, and personal care products.
+  * The hero image should be a high-quality image that represents the theme of the website.
+  * The featured products section should display at least 4 products and their respective prices and ratings.
+  * The customer testimonials section should include at least 3 testimonials with the name and photo of the customer.
+  * The page should be optimized for desktop, tablet, and mobile devices.
+  * You can use any framework or library of your choice to complete the project.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+And...
+*   Yes, this is a static webpage. It doesn't have any dynamic data or backend functionality.
+* As this is a fictional e-commerce website, I didn't provide specific product names or concepts for the featured products section. You can come up with your own product names and descriptions that align with the theme of the website, which is eco-friendly products. For example, you could feature products such as organic cotton t-shirts, reusable bamboo straws, natural cleaning products, or biodegradable phone cases. The products can be anything that you think would appeal to customers looking for eco-friendly options.
